@@ -11,7 +11,7 @@ The first function is a bubble_sort, the second function is a merge_sort, the th
 `python setup.py sdist`
 
 ## installing this from GitHub
-`pip install git+https://github.com/Maphefo/mypackage.git`
+`pip install git+https://github.com/Maphefo/phefopackage.git`
 
 ## updating this package from GitHub
-`pip install --upgrade git+https://github.com/Maphefo/mypackage.git`
+`pip install --upgrade git+https://github.com/Maphefo/phefopackage.git`
