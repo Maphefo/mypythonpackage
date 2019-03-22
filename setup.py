@@ -8,7 +8,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/Maphefo/mypackage',
+    url='https://github.com/Maphefo/phefopackage.git',
     author='Mmaphefo Seseni',
     author_email='michel.seseni@gmail.com'
 )
